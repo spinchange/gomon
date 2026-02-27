@@ -5,6 +5,8 @@ A cross-platform terminal UI system monitor. View and manage running processes w
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-blue)
 ![Language](https://img.shields.io/badge/language-Go-00ADD8)
 
+![gomon screenshot](screenshot.png)
+
 ## Features
 
 - **Real-time process table** — updates every second with PID, name, CPU%, memory (MB), thread count, and user
